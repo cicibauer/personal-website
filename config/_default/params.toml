@@ -51,8 +51,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "cici.x.bauer@uth.tmc.edu"
-phone = "(713)500-581"
-address = "E819, 1200 Pressler Street, 1200 Pressler Street "
+phone = "(713)500-9581"
+address = "E819, 1200 Pressler Street, Houston, TX 77030"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
