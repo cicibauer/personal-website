@@ -18,12 +18,13 @@ organizations:
   url: "https://sph.uth.edu/divisions/biostatistics/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Spatial-temporal modeling, Bayesian hierarhical models and statistical modeling of data from wearable devices.
+bio: My research interests include Bayesian spatiotemporal modeling, hierarchical models and statistical modeling of data from wearable devices.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Bayesian spatiotemporal modeling
+- small area estimation
+- hierarchical models for complex survey data
+- statistical analysis of data from wearable devices. 
 
 education:
   courses:
@@ -70,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Currently I am an Assistant Professor of Biostatistics and Data Science at the University of Texas Health Science Center in Houston. I graduated with Ph.D. in Statistics from the University of Washington Seattle in 2012. My research interests include Bayesian spatiotemporal modeling, small area estimation, hierarchical models for complex survey data, and statistical analysis of data from wearable devices. 
