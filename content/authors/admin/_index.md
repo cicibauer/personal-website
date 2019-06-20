@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Statistics
+  - course: Ph.D. in Statistics
     institution: University of Washington, Seattle
     year: 2012
   #- course: MEng in Artificial Intelligence

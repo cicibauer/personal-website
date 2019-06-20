@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Associate Director of Statistics"
+  company = "Pfizer"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+  location = "Cambridge, MA"
+  date_start = "Sept. 2016"
+  date_end = "Sept. 2018"
+ # description = """
+#  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+ # * Analysing
+#  * Modelling
+ # * Deploying
+#  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Assistant Professor"
+  company = "Dept. of Biostatistics, Brown University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Providence, RI"
+  date_start = "Sep. 2012"
+  date_end = "Sep. 2016"
+  description = """
+  * Fellow, Institute for the Study of Environment & Society, Brown University, May 2014 – Sep. 2016 
+  * Faculty Affiliate, Biostatistics core, Hasbro Children’s Hospital, Sept. 2013 – Sep. 2016 
+  * Faculty Affiliate, Spatial Structures for the Social Sciences (S4), Brown University, Sep. 2012 – Sep. 2016
+ """
 
 +++
