@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "Sep. 2012"
   date_end = "Sep. 2016"
   description = """
-  * Fellow, Institute for the Study of Environment \& Society, Brown University, May 2014 – Sep. 2016 
+  * Fellow, Institute for the Study of Environment and Society, Brown University, May 2014 – Sep. 2016 
   * Faculty Affiliate, Biostatistics core, Hasbro Children’s Hospital, Sept. 2013 – Sep. 2016 
   * Faculty Affiliate, Spatial Structures for the Social Sciences (S4), Brown University, Sep. 2012 – Sep. 2016
  """
