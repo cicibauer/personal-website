@@ -24,13 +24,12 @@ date_format = "Jan 2006"
   location = "Cambridge, MA"
   date_start = "Sept. 2016"
   date_end = "Sept. 2018"
- # description = """
-#  Responsibilities include:
-  
- # * Analysing
-#  * Modelling
- # * Deploying
-#  """
+  description = """
+  Responsibilities include:
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
   title = "Assistant Professor"
@@ -40,9 +39,24 @@ date_format = "Jan 2006"
   date_start = "Sep. 2012"
   date_end = "Sep. 2016"
   description = """
-  * Fellow, Institute for the Study of Environment & Society, Brown University, May 2014 – Sep. 2016 
+  * Fellow, Institute for the Study of Environment \& Society, Brown University, May 2014 – Sep. 2016 
   * Faculty Affiliate, Biostatistics core, Hasbro Children’s Hospital, Sept. 2013 – Sep. 2016 
   * Faculty Affiliate, Spatial Structures for the Social Sciences (S4), Brown University, Sep. 2012 – Sep. 2016
  """
+ 
+[[experience]]
+  title = "Biometrician II"
+  company = "Alaska Dept. of Fish and Game Wildlife Conservation"
+  company_url = ""
+  location = "Fairbanks, Alaska"
+  date_start = "Fall 2005"
+  date_end = "Summer 2007"
+ # description = """
+ #Responsibilities include:
+ # * Analysing
+#  * Modelling
+ # * Deploying
+#  """
+
 
 +++
