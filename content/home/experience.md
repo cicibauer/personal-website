@@ -24,11 +24,11 @@ date_format = "Jan 2006"
   location = "Cambridge, MA"
   date_start = "2016-09-01"
   date_end = "2018-09-01"
-  description = """
-  Responsibilities include:
-  * Analysing
-  * Modelling
-  * Deploying
+#  description = """
+#  Responsibilities include:
+#  * Analysing
+#  * Modelling
+#  * Deploying
   """
 
 [[experience]]
