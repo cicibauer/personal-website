@@ -24,7 +24,7 @@ interests:
 - Bayesian spatiotemporal modeling
 - small area estimation
 - hierarchical models for complex survey data
-- statistical analysis of data from wearable devices. 
+- statistical analysis of data from wearable devices 
 
 education:
   courses:

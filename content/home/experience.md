@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Pfizer"
   company_url = ""
   location = "Cambridge, MA"
-  date_start = "Sept. 2016"
-  date_end = "Sept. 2018"
+  date_start = "2016-09-01"
+  date_end = "2018-09-01"
   description = """
   Responsibilities include:
   * Analysing
@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   company = "Dept. of Biostatistics, Brown University"
   company_url = ""
   location = "Providence, RI"
-  date_start = "Sep. 2012"
-  date_end = "Sep. 2016"
+  date_start = "2012-09-01"
+  date_end = "2016-09-01"
   description = """
   * Fellow, Institute for the Study of Environment and Society, Brown University, May 2014 – Sep. 2016 
   * Faculty Affiliate, Biostatistics core, Hasbro Children’s Hospital, Sept. 2013 – Sep. 2016 
@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   company = "Alaska Dept. of Fish and Game Wildlife Conservation"
   company_url = ""
   location = "Fairbanks, Alaska"
-  date_start = "Fall 2005"
-  date_end = "Summer 2007"
+  date_start = "2005-09-01"
+  date_end = "2007-07-01"
  # description = """
  #Responsibilities include:
  # * Analysing
