@@ -29,13 +29,14 @@
   
   # Featured image thumbnail (optional)
   ##image_preview = ""
+  math = true
   
   # Is this a selected publication? (true/false)
   selected = true
   
   
   # Links (optional).
-  url_pdf = "http://faculty.washington.edu/jonno/papers/bauer-wakefield-18.pdf"
+  #url_pdf = "http://faculty.washington.edu/jonno/papers/bauer-wakefield-18.pdf"
   
   +++
     
