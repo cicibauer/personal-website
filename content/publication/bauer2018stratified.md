@@ -26,7 +26,10 @@ publication_short = "In *JRSSC*"
 # Is this a selected publication? (true/false)
 selected = true
 title = "Stratified space-time infectious disease modeling: with an application to hand, foot and mouth disease in China"
-  
+ 
+# Links (optional).
+url_source = "https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssc.12284" 
+ 
 # Links (optional).
 #url_pdf = "http://faculty.washington.edu/jonno/papers/bauer-wakefield-18.pdf"
   
