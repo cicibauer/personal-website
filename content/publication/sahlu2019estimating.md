@@ -4,9 +4,7 @@ featured = false
 # Is this a selected publication? (true/false)
 selected = false
 
-title = "Estimating the association between being seropositive for
-cysticercosis and t1he prevalence of epilepsy and severe chronic headaches in 60 villages of
-rural Burkina Faso."
+title = "Estimating the association between being seropositive for cysticercosis and the prevalence of epilepsy and severe chronic headaches in 60 villages of rural Burkina Faso"
 
 # Date first published.
 date = "2019-01-24"
