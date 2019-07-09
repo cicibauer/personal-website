@@ -1,26 +1,10 @@
 +++
 # Recent Publications widget.
-# This widget displays recent publications from `content/publication/`.
+# is this a featured publication? (true/false)
+featured = false
+# Is this a selected publication? (true/false)
+selected = true
 
-date = "2016-04-20T00:00:00"
-draft = false
-
-title = "Recent Publications"
-subtitle = ""
-widget = "publications"
-
-# Order that this section will appear in.
-weight = 2
-
-# Number of publications to list.
-count = 5
-
-# Show publication details (such as abstract)? (true/false)
-detailed_list = false
-
-
-
-+++
 
 title = "Climate patterns and mosquito-borne dis-
 ease outbreaks in south and southeast Asia"
@@ -57,11 +41,6 @@ Parabolic trends for both temperature and precipitation were observed relating t
 
 Conclusions
 Peak levels of temperature and precipitation were identified for outbreak risk. These findings support the notion of a poleward shift in the distribution of mosquitoes within this region rather than a poleward expansion in geographic range."
-
-
-# Is this a selected publication? (true/false)
-selected = true
-
 
 # Links (optional).
 url_pdf = "https://reader.elsevier.com/reader/sd/pii/S1876034117302940?token=AC4670441380E09E53298F8A6FDACCFC31FE6D4AA15528552B4D1C208872D2447268E33733CDAB52C939FFAF9DD8201E"
