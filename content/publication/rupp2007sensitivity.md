@@ -4,8 +4,7 @@ featured = false
 # Is this a selected publication? (true/false)
 selected = false
 
-title = "Sensitivity of simulated boreal fire dynamics to 
-uncertainties in climate drivers"
+title = "Sensitivity of simulated boreal fire dynamics to uncertainties in climate drivers"
 
 # Date first published.
 date = "2007-01-01"

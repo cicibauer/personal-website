@@ -2,7 +2,7 @@
 # is this a featured publication? (true/false)
 featured = false
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 title = "Prevalence of and factors associated with human cysticercosis in 60 Villages in three provinces of Burkina Faso."
 
@@ -27,17 +27,7 @@ publication_types = ["2"]
 publication = "In *PLoS Neglected Tropical Diseases*"
 
 # Abstract and optional shortened version.
-abstract = "*Taenia solium* is an infection that is transmitted between pigs and humans. Humans may get infected with the larvae of Taenia solium, which results in cysticercosis, an infection
-common in pig farming communities where there is poor sanitation and free roaming
-pigs. Most published studies on this infection have included less participants covering a
-restricted geographic area, thereby resulting in a limited understanding of the important
-risk factors for infection. Our study aimed to examine important individual-, householdand village-level characteristics associated with current infection using baseline data from
-3609 participants living in 60 villages across three provinces in Burkina Faso. Blood samples from village participants were taken to assess whether they were infected with cysticercosis. We found that eating pork, especially in other village’s markets, being older and
-male, living in a poorer household, not having access to a latrine, and living in a village
-where a larger percentage of pigs are left roaming were associated with infection. Soil pH
-and composition may also play a role in infection. Our results suggest that interventions
-that include human and veterinary health as well as environmental components should be
-considered to effectively control cysticercosis in such settings."
+abstract = "*Taenia solium* is an infection that is transmitted between pigs and humans. Humans may get infected with the larvae of *Taenia solium*, which results in cysticercosis, an infection common in pig farming communities where there is poor sanitation and free roaming pigs. Most published studies on this infection have included less participants covering a restricted geographic area, thereby resulting in a limited understanding of the important risk factors for infection. Our study aimed to examine important individual-, householdand village-level characteristics associated with current infection using baseline data from 3609 participants living in 60 villages across three provinces in Burkina Faso. Blood samples from village participants were taken to assess whether they were infected with cysticercosis. We found that eating pork, especially in other village’s markets, being older and male, living in a poorer household, not having access to a latrine, and living in a village where a larger percentage of pigs are left roaming were associated with infection. Soil pH and composition may also play a role in infection. Our results suggest that interventions that include human and veterinary health as well as environmental components should be considered to effectively control cysticercosis in such settings."
 
 
 # Links (optional).
