@@ -2,7 +2,7 @@
 # is this a featured publication? (true/false)
 featured = false
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 title = "Sensitivity of simulated boreal fire dynamics to 
 uncertainties in climate drivers"

@@ -24,7 +24,7 @@ authors = ["Hélène Carabin", "Athanase Millogo","Assana Cissé","Sarah Gabrië
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PLoS Neglected Tropical Diseases*."
+publication = "In *PLoS Neglected Tropical Diseases*"
 
 # Abstract and optional shortened version.
 abstract = "*Taenia solium* is an infection that is transmitted between pigs and humans. Humans may get infected with the larvae of Taenia solium, which results in cysticercosis, an infection
