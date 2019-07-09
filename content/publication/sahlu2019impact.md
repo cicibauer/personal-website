@@ -25,7 +25,7 @@ authors = ["Ida Sahlu", "Cici Bauer","Rasmané Ganaba","Pierre-Marie Preux","Lin
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PLOS Neglected Tropical Diseaes*."
+publication = "In *PLOS Neglected Tropical Diseaes*"
 
 # Abstract and optional shortened version.
 abstract = "Epilepsy and progressively worsening severe chronic headaches are the two most common
