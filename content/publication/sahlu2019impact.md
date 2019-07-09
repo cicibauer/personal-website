@@ -2,7 +2,7 @@
 # is this a featured publication? (true/false)
 featured = false
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 
 title = "The impact of imperfect screening tools on measuring the prevalence of epilepsy and headaches in Burkina Faso"

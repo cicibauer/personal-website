@@ -2,7 +2,7 @@
 # is this a featured publication? (true/false)
 featured = false
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 title = "Estimating the association between being seropositive for
 cysticercosis and t1he prevalence of epilepsy and severe chronic headaches in 60 villages of
