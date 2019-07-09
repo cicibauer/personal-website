@@ -26,10 +26,10 @@ authors = ["Ida Sahlu", "Hélėne Carabin","Rasmané Ganaba","Pierre-Marie Preux
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PLoS Neglected Tropical Diseases*."
+publication = "In *PLoS Neglected Tropical Diseases*"
 
 # Abstract and optional shortened version.
-# abstract = "*Taenia solium* is a parasite that can be transmitted between humans and pigs in areas with poor sanitation and pig management practices. When this parasite infects the human brain, it can cause epilepsy or severe headaches. Our study aimed to measure the association between being seropositive to cysticercal antigens and having epilepsy (lifetime and active) or severe headaches in 60 villages of Burkina Faso. We found that active epilepsy and severe headaches were associated with seropositivity to cysticercal antigens. These results confirm prior studies which suggested an association between being seropositive for cysticercal antigens and these two neurological symptoms. Preventing cysticercosis could reduce new cases of these two neurological symptoms from occurring."
+abstract = "*Taenia solium* is a parasite that can be transmitted between humans and pigs in areas with poor sanitation and pig management practices. When this parasite infects the human brain, it can cause epilepsy or severe headaches. Our study aimed to measure the association between being seropositive to cysticercal antigens and having epilepsy (lifetime and active) or severe headaches in 60 villages of Burkina Faso. We found that active epilepsy and severe headaches were associated with seropositivity to cysticercal antigens. These results confirm prior studies which suggested an association between being seropositive for cysticercal antigens and these two neurological symptoms. Preventing cysticercosis could reduce new cases of these two neurological symptoms from occurring."
 
 
 # Links (optional).
