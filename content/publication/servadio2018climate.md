@@ -3,7 +3,7 @@
 # is this a featured publication? (true/false)
 featured = false
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 
 title = "Climate patterns and mosquito-borne disease outbreaks in south and southeast Asia"
