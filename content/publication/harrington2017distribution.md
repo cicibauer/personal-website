@@ -4,9 +4,7 @@ featured = false
 # Is this a selected publication? (true/false)
 selected = true
 
-
-title = "The Distribution of Tree roots in Douglas-fir forests in the Pacific
-Northwest in relation to depth, space, coarse organic matter and mineral fragments."
+title = "The Distribution of Tree roots in Douglas-fir forests in the Pacific Northwest in relation to depth, space, coarse organic matter and mineral fragments."
 
 # Date first published.
 date = "2017-09-01"
@@ -26,8 +24,7 @@ authors = ["Constance A. Harrinton", "Scott M. Holub","Cici Bauer","E.Ashley Ste
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Northwest Science*. "
-
+publication = "In *Northwest Science*"
 
 # Abstract and optional shortened version.
 abstract = "This study evaluated relationships between site or tree characteristics and below-ground materials in Douglas-fir forests of the Pacific Northwest. We core-sampled living roots, dead organic matter, and mineral fragments at three soil depths on a 300-sample grid at nine forested sites in western Washington and Oregon resulting in approximately 7200 samples. We explored relationships between materials across depths and at three scales—point, block and site—and examined the data to quantify the degree of spatial clustering. Mass of roots and organic matter declined with depth; there were no consistent patterns with depth for mineral fragments. Correlations between values at the same point but at different depths were low for roots and organic matter at all sites (mean r values < 0.3). Total soil carbon per site was negatively correlated (r = -0.85) with total root mass; correlations between other site or tree variables and below-ground materials were much lower (r = -0.21 to 0.34). There were no detectable spatial patterns in root mass. The number of samples needed to estimate mean root mass was calculated by site and for several desired precision levels; this power analysis will aid others working at similar sites in determining necessary sample sizes a priori, or conversely, in estimating level of precision given a particular sample size. Precision of ± 1.5 kg m-3 could be achieved with less than 100 samples in the upper layer at most sites."
