@@ -5,7 +5,7 @@ featured = true
 # Is this a selected publication? (true/false)
 selected = true
 
-title = "Time series modeling of pathogen-specific disease probabilities with incomplete data."
+title = "Time series modeling of pathogen-specific disease probabilities with incomplete data"
 
 # Date first published.
 date = "2016-07-05"
@@ -25,7 +25,7 @@ authors = ["Leigh Fisher", "Jon Wakefield","Cici Bauer","Steve Self"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Biometrics*. "
+publication = "In *Biometrics*"
 
 
 # Abstract and optional shortened version.

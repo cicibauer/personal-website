@@ -4,7 +4,7 @@ featured = false
 # Is this a selected publication? (true/false)
 selected = true
 
-title = "Prevalence of and factors associated with human cysticercosis in 60 Villages in three provinces of Burkina Faso."
+title = "Prevalence of and factors associated with human cysticercosis in 60 Villages in three provinces of Burkina Faso"
 
 # Date first published.
 date = "2015-11-20"

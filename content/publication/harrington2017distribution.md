@@ -4,13 +4,13 @@ featured = false
 # Is this a selected publication? (true/false)
 selected = true
 
-title = "The Distribution of Tree roots in Douglas-fir forests in the Pacific Northwest in relation to depth, space, coarse organic matter and mineral fragments."
+title = "The Distribution of Tree roots in Douglas-fir forests in the Pacific Northwest in relation to depth, space, coarse organic matter and mineral fragments"
 
 # Date first published.
 date = "2017-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Constance A. Harrinton", "Scott M. Holub","Cici Bauer","E.Ashley Steel"]
+authors = ["Constance A. Harrington", "Scott M. Holub","Cici Bauer","E.Ashley Steel"]
 
 # Publication type.
 # Legend:

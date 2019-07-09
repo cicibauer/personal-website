@@ -5,7 +5,7 @@ featured = false
 # Is this a selected publication? (true/false)
 selected = true
 
-title = "Effectiveness of a community-based educational programme in reducing the cumulative incidence and prevalence of human Taenia solium cysticercosis in Burkina Faso in 2011-14 (EFECAB): a cluster-randomised controlled trial."
+title = "Effectiveness of a community-based educational programme in reducing the cumulative incidence and prevalence of human Taenia solium cysticercosis in Burkina Faso in 2011-14 (EFECAB): a cluster-randomised controlled trial"
 
 # Date first published.
 date = "2018-04-01"
@@ -25,7 +25,7 @@ authors = ["Hélène Carabin", "Athanase Millogo","Helena A Ngowi","Cici Bauer",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Lancet Global Health*. "
+publication = "In *The Lancet Global Health*"
 
 # Abstract and optional shortened version.
 # abstract = "Background

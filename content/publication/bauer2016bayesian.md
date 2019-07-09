@@ -4,7 +4,7 @@ featured = true
 # Is this a selected publication? (true/false)
 selected = true
 
-title = "Bayesian spline models for the analysis of spatio-temporal count data."
+title = "Bayesian spline models for the analysis of spatio-temporal count data"
 
 # Date first published.
 date = "2015-11-03"

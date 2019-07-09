@@ -25,7 +25,7 @@ authors = ["Cici Chen (Bauer)", "Jon Wakefield","Thomas Lumely"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Spatial and Spatio-temporal Epidemiology*. "
+publication = "In *Spatial and Spatio-temporal Epidemiology*"
 
 
 # Abstract and optional shortened version.

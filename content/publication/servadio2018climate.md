@@ -26,7 +26,7 @@ authors = ["Joseph L. Servadio", "Samantha R. Rosenthal","Lynn Carlson","Cici Ba
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Infection and Public Health.* "
+publication = "In *Journal of Infection and Public Health*"
 
 # # Abstract and optional shortened version.
 # abstract = "Background

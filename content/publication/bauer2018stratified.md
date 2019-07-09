@@ -26,7 +26,7 @@ math = true
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
 publication = "In *Journal of the Royal Statistical Society Series C* "
-publication_short = "In *JRSSC*"  
+#publication_short = "In *JRSSC*"  
 
 title = "Stratified space-time infectious disease modeling: with an application to hand, foot and mouth disease in China"
  
