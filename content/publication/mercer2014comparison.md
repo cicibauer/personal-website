@@ -24,7 +24,7 @@ authors = ["Laina Mercer", "Jon Wakefield","Cici Chen(Bauer)","Thomas Lumley"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Spatial Statistics*. "
+publication = "In *Spatial Statistics*"
 #publication_short = "In *Spat Stat*"
 
 # Abstract and optional shortened version.
