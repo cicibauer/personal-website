@@ -2,7 +2,7 @@
 # is this a featured publication? (true/false)
 featured = false
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 title = "Prevalence of and factors associated with human cysticercosis in 60 Villages in three provinces of Burkina Faso."
 
