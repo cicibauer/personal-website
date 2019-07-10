@@ -30,4 +30,4 @@ image:
 slides: example
 ---
 
-Spatial Models with Poststratification for Small Area Estimation: A Case Study of Diabetes Prevalence Estimates Using Brownsville CCHC.
+Bayesian Spatial Models with Poststratification for Small Area Estimation: A Case Study of Diabetes Prevalence Estimates Using Brownsville CCHC.
